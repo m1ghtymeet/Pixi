@@ -1,0 +1,16 @@
+
+IncludeDir = {}
+IncludeDir["GLFW"] = "%{wks.location}/Hazel/vendor/GLFW/include"
+IncludeDir["glad"] = "%{wks.location}/Hazel/vendor/glad/include"
+IncludeDir["ImGui"] = "%{wks.location}/Hazel/vendor/imgui"
+IncludeDir["glm"] = "%{wks.location}/Hazel/vendor/glm"
+IncludeDir["stb_image"] = "%{wks.location}/Hazel/vendor/stb_image"
+IncludeDir["entt"] = "%{wks.location}/Hazel/vendor/entt/include"
+IncludeDir["yaml_cpp"] = "%{wks.location}/Hazel/vendor/yaml-cpp/include"
+IncludeDir["PhysX"] = "%{wks.location}/Hazel/vendor/physx/include"
+IncludeDir["TinyOBJ"] = "%{wks.location}/Hazel/vendor/tinyobj"
+IncludeDir["Im3D"] = "%{wks.location}/Hazel/vendor/im3d"
+IncludeDir["ImGuizmo"] = "%{wks.location}/Hazel/vendor/ImGuizmo"
+IncludeDir["bullet"] = "%{wks.location}/Hazel/vendor/bullet"
+IncludeDir["Assimp"] = "%{wks.location}/Hazel/vendor/assimp/include"
+IncludeDir["Jolt"] = "%{wks.location}/Hazel/vendor/JoltPhysics"
